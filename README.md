@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I’m a final-year Computer Science student at ADA University, graduating in January 2026. My recent work includes a thesis on satellite-based wildfire detection in Azerbaijan and ongoing research under faculty guidance.
+I’m a graduate of Computer Science program at ADA University. My recent work includes a thesis on satellite-based wildfire detection in Azerbaijan and ongoing research under faculty guidance.
 
 My interests center on generative models, computer vision, and theoretical machine learning. I’m currently exploring diffusion-based methods for image restoration, with a focus on cloud removal in remote sensing.
 
