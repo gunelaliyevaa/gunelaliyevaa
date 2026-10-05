@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I’m a graduate of Computer Science program at ADA University. My recent work includes a thesis on satellite-based wildfire detection in Azerbaijan and ongoing research under faculty guidance.
+I’m a first-year M.Sc. student in Computer Science at the University of Bonn and a Computer Science graduate from ADA University. My recent work includes a thesis on satellite-based wildfire detection in Azerbaijan and ongoing research under faculty guidance.
 
 My interests center on generative models, computer vision, and theoretical machine learning. I’m currently exploring diffusion-based methods for image restoration, with a focus on cloud removal in remote sensing.
 
@@ -28,7 +28,7 @@ My goals are:
 ## 🔗 Contact / Links
 
 - **LinkedIn:** https://www.linkedin.com/in/gunel-aliyevaa/
-- **Email:** gunelaliyevaa07@gmail.com or galiyeva15577@ada.edu.az
+- **Email:** gunelaliyevaa07@gmail.com or s79galiy@uni-bonn.de
   
 
 <p align\="center"\><i\>Thanks for visiting my profile!</i\>
